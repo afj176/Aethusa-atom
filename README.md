@@ -4,7 +4,7 @@
 
 Atom.io Theme based on [Deep Blue See](https://github.com/jisaacks/DeepBlueSee/) by [JD Isaacks](https://github.com/jisaacks)
 
-![Aethusa theme](screenshot.png)
+![Aethusa theme](https://raw.githubusercontent.com/afj176/Aethusa-atom/master/screenshot.png)
 
 ##Installing
 
