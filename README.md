@@ -33,7 +33,7 @@ Go to `Atom -> Preferences...`, click in the `Themes` tab, and select `Aethusa` 
 
 If you're a Textmate/Sublime User, see:
 
-[Aethusa-tmTheme](https://github.com/afj176/Aethusa-thTheme)
+[Aethusa-tmTheme](https://github.com/afj176/Aethusa-tmTheme)
 
 If you're a Vim User, see:
 
